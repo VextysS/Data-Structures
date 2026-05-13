@@ -1,0 +1,4 @@
+Snelheid:
+Iteratie sneller dan recursief
+
+Recursief + formule sneller dan iteratie

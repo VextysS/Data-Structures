@@ -1,0 +1,95 @@
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 3\Labo\Datastructures-ConsoleApp\bin\Debug\net8.0\Datastructures-ConsoleApp.exe
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 3\Labo\Datastructures-ConsoleApp\bin\Debug\net8.0\Datastructures-ConsoleApp.deps.json
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 3\Labo\Datastructures-ConsoleApp\bin\Debug\net8.0\Datastructures-ConsoleApp.runtimeconfig.json
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 3\Labo\Datastructures-ConsoleApp\bin\Debug\net8.0\Datastructures-ConsoleApp.dll
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 3\Labo\Datastructures-ConsoleApp\bin\Debug\net8.0\Datastructures-ConsoleApp.pdb
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 3\Labo\Datastructures-ConsoleApp\bin\Debug\net8.0\Bogus.dll
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 3\Labo\Datastructures-ConsoleApp\bin\Debug\net8.0\Datastructures-ClassLibrary.dll
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 3\Labo\Datastructures-ConsoleApp\bin\Debug\net8.0\Datastructures-ClassLibrary.pdb
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 3\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\Datastructures-ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 3\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\Datastructures-ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 3\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\Datastructures-ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 3\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\Datastructures-ConsoleApp.AssemblyInfo.cs
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 3\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\Datastructures-ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 3\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\Datastru.76C4B976.Up2Date
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 3\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\Datastructures-ConsoleApp.dll
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 3\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\refint\Datastructures-ConsoleApp.dll
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 3\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\Datastructures-ConsoleApp.pdb
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 3\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\Datastructures-ConsoleApp.genruntimeconfig.cache
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 3\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\ref\Datastructures-ConsoleApp.dll
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Recursie\Labo\Datastructures-ConsoleApp\bin\Debug\net8.0\Datastructures-ConsoleApp.exe
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Recursie\Labo\Datastructures-ConsoleApp\bin\Debug\net8.0\Datastructures-ConsoleApp.deps.json
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Recursie\Labo\Datastructures-ConsoleApp\bin\Debug\net8.0\Datastructures-ConsoleApp.runtimeconfig.json
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Recursie\Labo\Datastructures-ConsoleApp\bin\Debug\net8.0\Datastructures-ConsoleApp.dll
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Recursie\Labo\Datastructures-ConsoleApp\bin\Debug\net8.0\Datastructures-ConsoleApp.pdb
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Recursie\Labo\Datastructures-ConsoleApp\bin\Debug\net8.0\Bogus.dll
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Recursie\Labo\Datastructures-ConsoleApp\bin\Debug\net8.0\Datastructures-ClassLibrary.dll
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Recursie\Labo\Datastructures-ConsoleApp\bin\Debug\net8.0\Datastructures-ClassLibrary.pdb
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Recursie\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\Datastructures-ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Recursie\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\Datastructures-ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Recursie\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\Datastructures-ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Recursie\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\Datastructures-ConsoleApp.AssemblyInfo.cs
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Recursie\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\Datastructures-ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Recursie\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\Datastru.76C4B976.Up2Date
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Recursie\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\Datastructures-ConsoleApp.dll
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Recursie\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\refint\Datastructures-ConsoleApp.dll
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Recursie\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\Datastructures-ConsoleApp.pdb
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Recursie\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\Datastructures-ConsoleApp.genruntimeconfig.cache
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Recursie\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\ref\Datastructures-ConsoleApp.dll
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Quick & Merge sort\Labo\Datastructures-ConsoleApp\bin\Debug\net8.0\Datastructures-ConsoleApp.exe
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Quick & Merge sort\Labo\Datastructures-ConsoleApp\bin\Debug\net8.0\Datastructures-ConsoleApp.deps.json
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Quick & Merge sort\Labo\Datastructures-ConsoleApp\bin\Debug\net8.0\Datastructures-ConsoleApp.runtimeconfig.json
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Quick & Merge sort\Labo\Datastructures-ConsoleApp\bin\Debug\net8.0\Datastructures-ConsoleApp.dll
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Quick & Merge sort\Labo\Datastructures-ConsoleApp\bin\Debug\net8.0\Datastructures-ConsoleApp.pdb
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Quick & Merge sort\Labo\Datastructures-ConsoleApp\bin\Debug\net8.0\Bogus.dll
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Quick & Merge sort\Labo\Datastructures-ConsoleApp\bin\Debug\net8.0\Datastructures-ClassLibrary.dll
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Quick & Merge sort\Labo\Datastructures-ConsoleApp\bin\Debug\net8.0\Datastructures-ClassLibrary.pdb
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Quick & Merge sort\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\Datastructures-ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Quick & Merge sort\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\Datastructures-ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Quick & Merge sort\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\Datastructures-ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Quick & Merge sort\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\Datastructures-ConsoleApp.AssemblyInfo.cs
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Quick & Merge sort\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\Datastructures-ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Quick & Merge sort\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\Datastru.76C4B976.Up2Date
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Quick & Merge sort\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\Datastructures-ConsoleApp.dll
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Quick & Merge sort\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\refint\Datastructures-ConsoleApp.dll
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Quick & Merge sort\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\Datastructures-ConsoleApp.pdb
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Quick & Merge sort\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\Datastructures-ConsoleApp.genruntimeconfig.cache
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Quick & Merge sort\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\ref\Datastructures-ConsoleApp.dll
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 8 - Binary search tree\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\Datastructures-ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 8 - Binary search tree\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\Datastructures-ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 8 - Binary search tree\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\Datastructures-ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 8 - Binary search tree\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\Datastructures-ConsoleApp.AssemblyInfo.cs
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 8 - Binary search tree\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\Datastructures-ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 8 - Binary search tree\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\Datastructures-ConsoleApp.dll
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 8 - Binary search tree\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\refint\Datastructures-ConsoleApp.dll
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 8 - Binary search tree\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\Datastructures-ConsoleApp.pdb
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 8 - Binary search tree\Labo\Datastructures-ConsoleApp\bin\Debug\net8.0\Datastructures-ConsoleApp.exe
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 8 - Binary search tree\Labo\Datastructures-ConsoleApp\bin\Debug\net8.0\Datastructures-ConsoleApp.deps.json
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 8 - Binary search tree\Labo\Datastructures-ConsoleApp\bin\Debug\net8.0\Datastructures-ConsoleApp.runtimeconfig.json
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 8 - Binary search tree\Labo\Datastructures-ConsoleApp\bin\Debug\net8.0\Datastructures-ConsoleApp.dll
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 8 - Binary search tree\Labo\Datastructures-ConsoleApp\bin\Debug\net8.0\Datastructures-ConsoleApp.pdb
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 8 - Binary search tree\Labo\Datastructures-ConsoleApp\bin\Debug\net8.0\Bogus.dll
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 8 - Binary search tree\Labo\Datastructures-ConsoleApp\bin\Debug\net8.0\Datastructures-ClassLibrary.dll
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 8 - Binary search tree\Labo\Datastructures-ConsoleApp\bin\Debug\net8.0\Datastructures-ClassLibrary.pdb
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 8 - Binary search tree\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\Datastru.76C4B976.Up2Date
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 8 - Binary search tree\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\Datastructures-ConsoleApp.genruntimeconfig.cache
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 8 - Binary search tree\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\ref\Datastructures-ConsoleApp.dll
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 9 - Generics\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\Datastructures-ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 9 - Generics\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\Datastructures-ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 9 - Generics\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\Datastructures-ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 9 - Generics\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\Datastructures-ConsoleApp.AssemblyInfo.cs
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 9 - Generics\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\Datastructures-ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 9 - Generics\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\Datastructures-ConsoleApp.dll
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 9 - Generics\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\refint\Datastructures-ConsoleApp.dll
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 9 - Generics\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\Datastructures-ConsoleApp.pdb
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 9 - Generics\Labo\Datastructures-ConsoleApp\bin\Debug\net8.0\Datastructures-ConsoleApp.exe
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 9 - Generics\Labo\Datastructures-ConsoleApp\bin\Debug\net8.0\Datastructures-ConsoleApp.deps.json
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 9 - Generics\Labo\Datastructures-ConsoleApp\bin\Debug\net8.0\Datastructures-ConsoleApp.runtimeconfig.json
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 9 - Generics\Labo\Datastructures-ConsoleApp\bin\Debug\net8.0\Datastructures-ConsoleApp.dll
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 9 - Generics\Labo\Datastructures-ConsoleApp\bin\Debug\net8.0\Datastructures-ConsoleApp.pdb
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 9 - Generics\Labo\Datastructures-ConsoleApp\bin\Debug\net8.0\Bogus.dll
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 9 - Generics\Labo\Datastructures-ConsoleApp\bin\Debug\net8.0\Datastructures-ClassLibrary.dll
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 9 - Generics\Labo\Datastructures-ConsoleApp\bin\Debug\net8.0\Datastructures-ClassLibrary.pdb
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 9 - Generics\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\Datastru.76C4B976.Up2Date
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 9 - Generics\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\Datastructures-ConsoleApp.genruntimeconfig.cache
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 9 - Generics\Labo\Datastructures-ConsoleApp\obj\Debug\net8.0\ref\Datastructures-ConsoleApp.dll

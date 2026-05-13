@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 5 - Queue \u0026 Stack\\Labo_LinStructures-part1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71B23286-7B07-4F90-A0D2-D73CF9D1C969}|Datastructures-Unittesting\\Datastructures-Unittesting.csproj|c:\\users\\ahadi\\desktop\\2025-2026\\s2\\data structures\\week 5 - queue \u0026 stack\\labo_linstructures-part1\\datastructures-unittesting\\lineairstructures\\stacktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71B23286-7B07-4F90-A0D2-D73CF9D1C969}|Datastructures-Unittesting\\Datastructures-Unittesting.csproj|solutionrelative:datastructures-unittesting\\lineairstructures\\stacktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFFFC06-E087-46D5-80D0-E37EAABA27CB}|Datastructures-ConsoleApp\\Datastructures-ConsoleApp.csproj|c:\\users\\ahadi\\desktop\\2025-2026\\s2\\data structures\\week 5 - queue \u0026 stack\\labo_linstructures-part1\\datastructures-consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFFFC06-E087-46D5-80D0-E37EAABA27CB}|Datastructures-ConsoleApp\\Datastructures-ConsoleApp.csproj|solutionrelative:datastructures-consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFFFC06-E087-46D5-80D0-E37EAABA27CB}|Datastructures-ConsoleApp\\Datastructures-ConsoleApp.csproj|c:\\users\\ahadi\\desktop\\2025-2026\\s2\\data structures\\week 5 - queue \u0026 stack\\labo_linstructures-part1\\datastructures-consoleapp\\lineairstructuresexercises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFFFC06-E087-46D5-80D0-E37EAABA27CB}|Datastructures-ConsoleApp\\Datastructures-ConsoleApp.csproj|solutionrelative:datastructures-consoleapp\\lineairstructuresexercises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0C57FF-07A1-4BB7-9385-937D03AE0CAF}|Datastructures-ClassLibrary\\Datastructures-ClassLibrary.csproj|c:\\users\\ahadi\\desktop\\2025-2026\\s2\\data structures\\week 5 - queue \u0026 stack\\labo_linstructures-part1\\datastructures-classlibrary\\lineairstructures\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0C57FF-07A1-4BB7-9385-937D03AE0CAF}|Datastructures-ClassLibrary\\Datastructures-ClassLibrary.csproj|solutionrelative:datastructures-classlibrary\\lineairstructures\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B23286-7B07-4F90-A0D2-D73CF9D1C969}|Datastructures-Unittesting\\Datastructures-Unittesting.csproj|c:\\users\\ahadi\\desktop\\2025-2026\\s2\\data structures\\week 5 - queue \u0026 stack\\labo_linstructures-part1\\datastructures-unittesting\\lineairstructures\\queue_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71B23286-7B07-4F90-A0D2-D73CF9D1C969}|Datastructures-Unittesting\\Datastructures-Unittesting.csproj|solutionrelative:datastructures-unittesting\\lineairstructures\\queue_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0C57FF-07A1-4BB7-9385-937D03AE0CAF}|Datastructures-ClassLibrary\\Datastructures-ClassLibrary.csproj|c:\\users\\ahadi\\desktop\\2025-2026\\s2\\data structures\\week 5 - queue \u0026 stack\\labo_linstructures-part1\\datastructures-classlibrary\\lineairstructures\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0C57FF-07A1-4BB7-9385-937D03AE0CAF}|Datastructures-ClassLibrary\\Datastructures-ClassLibrary.csproj|solutionrelative:datastructures-classlibrary\\lineairstructures\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 5 - Queue \u0026 Stack\\Labo_LinStructures-part1\\Datastructures-ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "Datastructures-ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 5 - Queue \u0026 Stack\\Labo_LinStructures-part1\\Datastructures-ConsoleApp\\Program.cs",
+              "RelativeToolTip": "Datastructures-ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:45:04.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StackTests.cs",
+              "DocumentMoniker": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 5 - Queue \u0026 Stack\\Labo_LinStructures-part1\\Datastructures-Unittesting\\LineairStructures\\StackTests.cs",
+              "RelativeDocumentMoniker": "Datastructures-Unittesting\\LineairStructures\\StackTests.cs",
+              "ToolTip": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 5 - Queue \u0026 Stack\\Labo_LinStructures-part1\\Datastructures-Unittesting\\LineairStructures\\StackTests.cs",
+              "RelativeToolTip": "Datastructures-Unittesting\\LineairStructures\\StackTests.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:40:17.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Stack.cs",
+              "DocumentMoniker": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 5 - Queue \u0026 Stack\\Labo_LinStructures-part1\\Datastructures-ClassLibrary\\LineairStructures\\Stack.cs",
+              "RelativeDocumentMoniker": "Datastructures-ClassLibrary\\LineairStructures\\Stack.cs",
+              "ToolTip": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 5 - Queue \u0026 Stack\\Labo_LinStructures-part1\\Datastructures-ClassLibrary\\LineairStructures\\Stack.cs",
+              "RelativeToolTip": "Datastructures-ClassLibrary\\LineairStructures\\Stack.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:35:55.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Queue_tests.cs",
+              "DocumentMoniker": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 5 - Queue \u0026 Stack\\Labo_LinStructures-part1\\Datastructures-Unittesting\\LineairStructures\\Queue_tests.cs",
+              "RelativeDocumentMoniker": "Datastructures-Unittesting\\LineairStructures\\Queue_tests.cs",
+              "ToolTip": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 5 - Queue \u0026 Stack\\Labo_LinStructures-part1\\Datastructures-Unittesting\\LineairStructures\\Queue_tests.cs",
+              "RelativeToolTip": "Datastructures-Unittesting\\LineairStructures\\Queue_tests.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAwwA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:13:06.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LineairStructuresExercises.cs",
+              "DocumentMoniker": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 5 - Queue \u0026 Stack\\Labo_LinStructures-part1\\Datastructures-ConsoleApp\\LineairStructuresExercises.cs",
+              "RelativeDocumentMoniker": "Datastructures-ConsoleApp\\LineairStructuresExercises.cs",
+              "ToolTip": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 5 - Queue \u0026 Stack\\Labo_LinStructures-part1\\Datastructures-ConsoleApp\\LineairStructuresExercises.cs",
+              "RelativeToolTip": "Datastructures-ConsoleApp\\LineairStructuresExercises.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAUwKEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T09:48:54.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Queue.cs",
+              "DocumentMoniker": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 5 - Queue \u0026 Stack\\Labo_LinStructures-part1\\Datastructures-ClassLibrary\\LineairStructures\\Queue.cs",
+              "RelativeDocumentMoniker": "Datastructures-ClassLibrary\\LineairStructures\\Queue.cs",
+              "ToolTip": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 5 - Queue \u0026 Stack\\Labo_LinStructures-part1\\Datastructures-ClassLibrary\\LineairStructures\\Queue.cs",
+              "RelativeToolTip": "Datastructures-ClassLibrary\\LineairStructures\\Queue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T09:35:10.283Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

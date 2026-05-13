@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 4 - Recursie\\Labo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFFFC06-E087-46D5-80D0-E37EAABA27CB}|Datastructures-ConsoleApp\\Datastructures-ConsoleApp.csproj|c:\\users\\ahadi\\desktop\\2025-2026\\s2\\data structures\\week 4 - recursie\\labo\\datastructures-consoleapp\\recursionexercises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFFFC06-E087-46D5-80D0-E37EAABA27CB}|Datastructures-ConsoleApp\\Datastructures-ConsoleApp.csproj|solutionrelative:datastructures-consoleapp\\recursionexercises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0C57FF-07A1-4BB7-9385-937D03AE0CAF}|Datastructures-ClassLibrary\\Datastructures-ClassLibrary.csproj|c:\\users\\ahadi\\desktop\\2025-2026\\s2\\data structures\\week 4 - recursie\\labo\\datastructures-classlibrary\\recursion\\texthelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0C57FF-07A1-4BB7-9385-937D03AE0CAF}|Datastructures-ClassLibrary\\Datastructures-ClassLibrary.csproj|solutionrelative:datastructures-classlibrary\\recursion\\texthelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0C57FF-07A1-4BB7-9385-937D03AE0CAF}|Datastructures-ClassLibrary\\Datastructures-ClassLibrary.csproj|c:\\users\\ahadi\\desktop\\2025-2026\\s2\\data structures\\week 4 - recursie\\labo\\datastructures-classlibrary\\recursion\\mathhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0C57FF-07A1-4BB7-9385-937D03AE0CAF}|Datastructures-ClassLibrary\\Datastructures-ClassLibrary.csproj|solutionrelative:datastructures-classlibrary\\recursion\\mathhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0C57FF-07A1-4BB7-9385-937D03AE0CAF}|Datastructures-ClassLibrary\\Datastructures-ClassLibrary.csproj|c:\\users\\ahadi\\desktop\\2025-2026\\s2\\data structures\\week 4 - recursie\\labo\\datastructures-classlibrary\\recursion\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0C57FF-07A1-4BB7-9385-937D03AE0CAF}|Datastructures-ClassLibrary\\Datastructures-ClassLibrary.csproj|solutionrelative:datastructures-classlibrary\\recursion\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFFFC06-E087-46D5-80D0-E37EAABA27CB}|Datastructures-ConsoleApp\\Datastructures-ConsoleApp.csproj|c:\\users\\ahadi\\desktop\\2025-2026\\s2\\data structures\\week 4 - recursie\\labo\\datastructures-consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFFFC06-E087-46D5-80D0-E37EAABA27CB}|Datastructures-ConsoleApp\\Datastructures-ConsoleApp.csproj|solutionrelative:datastructures-consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MathHelpers.cs",
+              "DocumentMoniker": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 4 - Recursie\\Labo\\Datastructures-ClassLibrary\\Recursion\\MathHelpers.cs",
+              "RelativeDocumentMoniker": "Datastructures-ClassLibrary\\Recursion\\MathHelpers.cs",
+              "ToolTip": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 4 - Recursie\\Labo\\Datastructures-ClassLibrary\\Recursion\\MathHelpers.cs",
+              "RelativeToolTip": "Datastructures-ClassLibrary\\Recursion\\MathHelpers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T10:43:59.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TextHelpers.cs",
+              "DocumentMoniker": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 4 - Recursie\\Labo\\Datastructures-ClassLibrary\\Recursion\\TextHelpers.cs",
+              "RelativeDocumentMoniker": "Datastructures-ClassLibrary\\Recursion\\TextHelpers.cs",
+              "ToolTip": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 4 - Recursie\\Labo\\Datastructures-ClassLibrary\\Recursion\\TextHelpers.cs",
+              "RelativeToolTip": "Datastructures-ClassLibrary\\Recursion\\TextHelpers.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T10:15:14.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Counter.cs",
+              "DocumentMoniker": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 4 - Recursie\\Labo\\Datastructures-ClassLibrary\\Recursion\\Counter.cs",
+              "RelativeDocumentMoniker": "Datastructures-ClassLibrary\\Recursion\\Counter.cs",
+              "ToolTip": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 4 - Recursie\\Labo\\Datastructures-ClassLibrary\\Recursion\\Counter.cs",
+              "RelativeToolTip": "Datastructures-ClassLibrary\\Recursion\\Counter.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBsAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T19:35:33.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 4 - Recursie\\Labo\\Datastructures-ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "Datastructures-ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 4 - Recursie\\Labo\\Datastructures-ConsoleApp\\Program.cs",
+              "RelativeToolTip": "Datastructures-ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T19:34:04.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecursionExercises.cs",
+              "DocumentMoniker": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 4 - Recursie\\Labo\\Datastructures-ConsoleApp\\RecursionExercises.cs",
+              "RelativeDocumentMoniker": "Datastructures-ConsoleApp\\RecursionExercises.cs",
+              "ToolTip": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 4 - Recursie\\Labo\\Datastructures-ConsoleApp\\RecursionExercises.cs",
+              "RelativeToolTip": "Datastructures-ConsoleApp\\RecursionExercises.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvx4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T19:32:46.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

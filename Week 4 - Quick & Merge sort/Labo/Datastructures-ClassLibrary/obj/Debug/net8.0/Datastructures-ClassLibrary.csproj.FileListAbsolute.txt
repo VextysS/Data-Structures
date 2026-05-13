@@ -1,0 +1,36 @@
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 3\Labo\Datastructures-ClassLibrary\bin\Debug\net8.0\Datastructures-ClassLibrary.deps.json
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 3\Labo\Datastructures-ClassLibrary\bin\Debug\net8.0\Datastructures-ClassLibrary.dll
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 3\Labo\Datastructures-ClassLibrary\bin\Debug\net8.0\Datastructures-ClassLibrary.pdb
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 3\Labo\Datastructures-ClassLibrary\obj\Debug\net8.0\Datastructures-ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 3\Labo\Datastructures-ClassLibrary\obj\Debug\net8.0\Datastructures-ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 3\Labo\Datastructures-ClassLibrary\obj\Debug\net8.0\Datastructures-ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 3\Labo\Datastructures-ClassLibrary\obj\Debug\net8.0\Datastructures-ClassLibrary.AssemblyInfo.cs
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 3\Labo\Datastructures-ClassLibrary\obj\Debug\net8.0\Datastructures-ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 3\Labo\Datastructures-ClassLibrary\obj\Debug\net8.0\Datastructures-ClassLibrary.dll
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 3\Labo\Datastructures-ClassLibrary\obj\Debug\net8.0\refint\Datastructures-ClassLibrary.dll
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 3\Labo\Datastructures-ClassLibrary\obj\Debug\net8.0\Datastructures-ClassLibrary.pdb
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 3\Labo\Datastructures-ClassLibrary\obj\Debug\net8.0\ref\Datastructures-ClassLibrary.dll
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Recursie\Labo\Datastructures-ClassLibrary\bin\Debug\net8.0\Datastructures-ClassLibrary.deps.json
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Recursie\Labo\Datastructures-ClassLibrary\bin\Debug\net8.0\Datastructures-ClassLibrary.dll
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Recursie\Labo\Datastructures-ClassLibrary\bin\Debug\net8.0\Datastructures-ClassLibrary.pdb
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Recursie\Labo\Datastructures-ClassLibrary\obj\Debug\net8.0\Datastructures-ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Recursie\Labo\Datastructures-ClassLibrary\obj\Debug\net8.0\Datastructures-ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Recursie\Labo\Datastructures-ClassLibrary\obj\Debug\net8.0\Datastructures-ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Recursie\Labo\Datastructures-ClassLibrary\obj\Debug\net8.0\Datastructures-ClassLibrary.AssemblyInfo.cs
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Recursie\Labo\Datastructures-ClassLibrary\obj\Debug\net8.0\Datastructures-ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Recursie\Labo\Datastructures-ClassLibrary\obj\Debug\net8.0\Datastructures-ClassLibrary.dll
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Recursie\Labo\Datastructures-ClassLibrary\obj\Debug\net8.0\refint\Datastructures-ClassLibrary.dll
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Recursie\Labo\Datastructures-ClassLibrary\obj\Debug\net8.0\Datastructures-ClassLibrary.pdb
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Recursie\Labo\Datastructures-ClassLibrary\obj\Debug\net8.0\ref\Datastructures-ClassLibrary.dll
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Quick & Merge sort\Labo\Datastructures-ClassLibrary\bin\Debug\net8.0\Datastructures-ClassLibrary.deps.json
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Quick & Merge sort\Labo\Datastructures-ClassLibrary\bin\Debug\net8.0\Datastructures-ClassLibrary.dll
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Quick & Merge sort\Labo\Datastructures-ClassLibrary\bin\Debug\net8.0\Datastructures-ClassLibrary.pdb
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Quick & Merge sort\Labo\Datastructures-ClassLibrary\obj\Debug\net8.0\Datastructures-ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Quick & Merge sort\Labo\Datastructures-ClassLibrary\obj\Debug\net8.0\Datastructures-ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Quick & Merge sort\Labo\Datastructures-ClassLibrary\obj\Debug\net8.0\Datastructures-ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Quick & Merge sort\Labo\Datastructures-ClassLibrary\obj\Debug\net8.0\Datastructures-ClassLibrary.AssemblyInfo.cs
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Quick & Merge sort\Labo\Datastructures-ClassLibrary\obj\Debug\net8.0\Datastructures-ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Quick & Merge sort\Labo\Datastructures-ClassLibrary\obj\Debug\net8.0\Datastructures-ClassLibrary.dll
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Quick & Merge sort\Labo\Datastructures-ClassLibrary\obj\Debug\net8.0\refint\Datastructures-ClassLibrary.dll
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Quick & Merge sort\Labo\Datastructures-ClassLibrary\obj\Debug\net8.0\Datastructures-ClassLibrary.pdb
+C:\Users\ahadi\Desktop\2025-2026\S2\Data structures\Week 4 - Quick & Merge sort\Labo\Datastructures-ClassLibrary\obj\Debug\net8.0\ref\Datastructures-ClassLibrary.dll

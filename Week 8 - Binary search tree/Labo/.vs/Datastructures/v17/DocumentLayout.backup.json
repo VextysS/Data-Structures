@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 8 - Binary search tree\\Labo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0C57FF-07A1-4BB7-9385-937D03AE0CAF}|Datastructures-ClassLibrary\\Datastructures-ClassLibrary.csproj|c:\\users\\ahadi\\desktop\\2025-2026\\s2\\data structures\\week 8 - binary search tree\\labo\\datastructures-classlibrary\\nonlineairstructures\\bst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0C57FF-07A1-4BB7-9385-937D03AE0CAF}|Datastructures-ClassLibrary\\Datastructures-ClassLibrary.csproj|solutionrelative:datastructures-classlibrary\\nonlineairstructures\\bst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFFFC06-E087-46D5-80D0-E37EAABA27CB}|Datastructures-ConsoleApp\\Datastructures-ConsoleApp.csproj|c:\\users\\ahadi\\desktop\\2025-2026\\s2\\data structures\\week 8 - binary search tree\\labo\\datastructures-consoleapp\\nonlineairstructuresexercises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFFFC06-E087-46D5-80D0-E37EAABA27CB}|Datastructures-ConsoleApp\\Datastructures-ConsoleApp.csproj|solutionrelative:datastructures-consoleapp\\nonlineairstructuresexercises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0C57FF-07A1-4BB7-9385-937D03AE0CAF}|Datastructures-ClassLibrary\\Datastructures-ClassLibrary.csproj|c:\\users\\ahadi\\desktop\\2025-2026\\s2\\data structures\\week 8 - binary search tree\\labo\\datastructures-classlibrary\\nonlineairstructures\\bstnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0C57FF-07A1-4BB7-9385-937D03AE0CAF}|Datastructures-ClassLibrary\\Datastructures-ClassLibrary.csproj|solutionrelative:datastructures-classlibrary\\nonlineairstructures\\bstnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0C57FF-07A1-4BB7-9385-937D03AE0CAF}|Datastructures-ClassLibrary\\Datastructures-ClassLibrary.csproj|c:\\users\\ahadi\\desktop\\2025-2026\\s2\\data structures\\week 8 - binary search tree\\labo\\datastructures-classlibrary\\nonlineairstructures\\btreeprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0C57FF-07A1-4BB7-9385-937D03AE0CAF}|Datastructures-ClassLibrary\\Datastructures-ClassLibrary.csproj|solutionrelative:datastructures-classlibrary\\nonlineairstructures\\btreeprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFFFC06-E087-46D5-80D0-E37EAABA27CB}|Datastructures-ConsoleApp\\Datastructures-ConsoleApp.csproj|c:\\users\\ahadi\\desktop\\2025-2026\\s2\\data structures\\week 8 - binary search tree\\labo\\datastructures-consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFFFC06-E087-46D5-80D0-E37EAABA27CB}|Datastructures-ConsoleApp\\Datastructures-ConsoleApp.csproj|solutionrelative:datastructures-consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0C57FF-07A1-4BB7-9385-937D03AE0CAF}|Datastructures-ClassLibrary\\Datastructures-ClassLibrary.csproj|c:\\users\\ahadi\\desktop\\2025-2026\\s2\\data structures\\week 8 - binary search tree\\labo\\datastructures-classlibrary\\sorting\\mergesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0C57FF-07A1-4BB7-9385-937D03AE0CAF}|Datastructures-ClassLibrary\\Datastructures-ClassLibrary.csproj|solutionrelative:datastructures-classlibrary\\sorting\\mergesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0C57FF-07A1-4BB7-9385-937D03AE0CAF}|Datastructures-ClassLibrary\\Datastructures-ClassLibrary.csproj|c:\\users\\ahadi\\desktop\\2025-2026\\s2\\data structures\\week 8 - binary search tree\\labo\\datastructures-classlibrary\\sorting\\quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0C57FF-07A1-4BB7-9385-937D03AE0CAF}|Datastructures-ClassLibrary\\Datastructures-ClassLibrary.csproj|solutionrelative:datastructures-classlibrary\\sorting\\quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFFFC06-E087-46D5-80D0-E37EAABA27CB}|Datastructures-ConsoleApp\\Datastructures-ConsoleApp.csproj|c:\\users\\ahadi\\desktop\\2025-2026\\s2\\data structures\\week 8 - binary search tree\\labo\\datastructures-consoleapp\\sortingexercises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFFFC06-E087-46D5-80D0-E37EAABA27CB}|Datastructures-ConsoleApp\\Datastructures-ConsoleApp.csproj|solutionrelative:datastructures-consoleapp\\sortingexercises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFFFC06-E087-46D5-80D0-E37EAABA27CB}|Datastructures-ConsoleApp\\Datastructures-ConsoleApp.csproj|c:\\users\\ahadi\\desktop\\2025-2026\\s2\\data structures\\week 8 - binary search tree\\labo\\datastructures-consoleapp\\recursionexercises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFFFC06-E087-46D5-80D0-E37EAABA27CB}|Datastructures-ConsoleApp\\Datastructures-ConsoleApp.csproj|solutionrelative:datastructures-consoleapp\\recursionexercises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0C57FF-07A1-4BB7-9385-937D03AE0CAF}|Datastructures-ClassLibrary\\Datastructures-ClassLibrary.csproj|c:\\users\\ahadi\\desktop\\2025-2026\\s2\\data structures\\week 8 - binary search tree\\labo\\datastructures-classlibrary\\sorting\\solution-quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0C57FF-07A1-4BB7-9385-937D03AE0CAF}|Datastructures-ClassLibrary\\Datastructures-ClassLibrary.csproj|solutionrelative:datastructures-classlibrary\\sorting\\solution-quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0C57FF-07A1-4BB7-9385-937D03AE0CAF}|Datastructures-ClassLibrary\\Datastructures-ClassLibrary.csproj|c:\\users\\ahadi\\desktop\\2025-2026\\s2\\data structures\\week 8 - binary search tree\\labo\\datastructures-classlibrary\\recursion\\texthelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0C57FF-07A1-4BB7-9385-937D03AE0CAF}|Datastructures-ClassLibrary\\Datastructures-ClassLibrary.csproj|solutionrelative:datastructures-classlibrary\\recursion\\texthelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0C57FF-07A1-4BB7-9385-937D03AE0CAF}|Datastructures-ClassLibrary\\Datastructures-ClassLibrary.csproj|c:\\users\\ahadi\\desktop\\2025-2026\\s2\\data structures\\week 8 - binary search tree\\labo\\datastructures-classlibrary\\recursion\\mathhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0C57FF-07A1-4BB7-9385-937D03AE0CAF}|Datastructures-ClassLibrary\\Datastructures-ClassLibrary.csproj|solutionrelative:datastructures-classlibrary\\recursion\\mathhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0C57FF-07A1-4BB7-9385-937D03AE0CAF}|Datastructures-ClassLibrary\\Datastructures-ClassLibrary.csproj|c:\\users\\ahadi\\desktop\\2025-2026\\s2\\data structures\\week 8 - binary search tree\\labo\\datastructures-classlibrary\\recursion\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0C57FF-07A1-4BB7-9385-937D03AE0CAF}|Datastructures-ClassLibrary\\Datastructures-ClassLibrary.csproj|solutionrelative:datastructures-classlibrary\\recursion\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BST.cs",
+              "DocumentMoniker": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 8 - Binary search tree\\Labo\\Datastructures-ClassLibrary\\NonLineairStructures\\BST.cs",
+              "RelativeDocumentMoniker": "Datastructures-ClassLibrary\\NonLineairStructures\\BST.cs",
+              "ToolTip": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 8 - Binary search tree\\Labo\\Datastructures-ClassLibrary\\NonLineairStructures\\BST.cs",
+              "RelativeToolTip": "Datastructures-ClassLibrary\\NonLineairStructures\\BST.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAIA+wC0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T09:44:17.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BSTNode.cs",
+              "DocumentMoniker": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 8 - Binary search tree\\Labo\\Datastructures-ClassLibrary\\NonLineairStructures\\BSTNode.cs",
+              "RelativeDocumentMoniker": "Datastructures-ClassLibrary\\NonLineairStructures\\BSTNode.cs",
+              "ToolTip": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 8 - Binary search tree\\Labo\\Datastructures-ClassLibrary\\NonLineairStructures\\BSTNode.cs",
+              "RelativeToolTip": "Datastructures-ClassLibrary\\NonLineairStructures\\BSTNode.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T09:41:23.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BTreePrinter.cs",
+              "DocumentMoniker": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 8 - Binary search tree\\Labo\\Datastructures-ClassLibrary\\NonLineairStructures\\BTreePrinter.cs",
+              "RelativeDocumentMoniker": "Datastructures-ClassLibrary\\NonLineairStructures\\BTreePrinter.cs",
+              "ToolTip": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 8 - Binary search tree\\Labo\\Datastructures-ClassLibrary\\NonLineairStructures\\BTreePrinter.cs",
+              "RelativeToolTip": "Datastructures-ClassLibrary\\NonLineairStructures\\BTreePrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T09:30:56.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NonLineairStructuresExercises.cs",
+              "DocumentMoniker": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 8 - Binary search tree\\Labo\\Datastructures-ConsoleApp\\NonLineairStructuresExercises.cs",
+              "RelativeDocumentMoniker": "Datastructures-ConsoleApp\\NonLineairStructuresExercises.cs",
+              "ToolTip": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 8 - Binary search tree\\Labo\\Datastructures-ConsoleApp\\NonLineairStructuresExercises.cs",
+              "RelativeToolTip": "Datastructures-ConsoleApp\\NonLineairStructuresExercises.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAYwEQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T09:28:25.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 8 - Binary search tree\\Labo\\Datastructures-ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "Datastructures-ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 8 - Binary search tree\\Labo\\Datastructures-ConsoleApp\\Program.cs",
+              "RelativeToolTip": "Datastructures-ConsoleApp\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwCcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T19:34:04.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Counter.cs",
+              "DocumentMoniker": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 8 - Binary search tree\\Labo\\Datastructures-ClassLibrary\\Recursion\\Counter.cs",
+              "RelativeDocumentMoniker": "Datastructures-ClassLibrary\\Recursion\\Counter.cs",
+              "ToolTip": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 8 - Binary search tree\\Labo\\Datastructures-ClassLibrary\\Recursion\\Counter.cs",
+              "RelativeToolTip": "Datastructures-ClassLibrary\\Recursion\\Counter.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBsAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T19:35:33.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mergesort.cs",
+              "DocumentMoniker": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 8 - Binary search tree\\Labo\\Datastructures-ClassLibrary\\Sorting\\Mergesort.cs",
+              "RelativeDocumentMoniker": "Datastructures-ClassLibrary\\Sorting\\Mergesort.cs",
+              "ToolTip": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 8 - Binary search tree\\Labo\\Datastructures-ClassLibrary\\Sorting\\Mergesort.cs",
+              "RelativeToolTip": "Datastructures-ClassLibrary\\Sorting\\Mergesort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T11:12:33.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Quicksort.cs",
+              "DocumentMoniker": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 8 - Binary search tree\\Labo\\Datastructures-ClassLibrary\\Sorting\\Quicksort.cs",
+              "RelativeDocumentMoniker": "Datastructures-ClassLibrary\\Sorting\\Quicksort.cs",
+              "ToolTip": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 8 - Binary search tree\\Labo\\Datastructures-ClassLibrary\\Sorting\\Quicksort.cs",
+              "RelativeToolTip": "Datastructures-ClassLibrary\\Sorting\\Quicksort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T11:09:01.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RecursionExercises.cs",
+              "DocumentMoniker": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 8 - Binary search tree\\Labo\\Datastructures-ConsoleApp\\RecursionExercises.cs",
+              "RelativeDocumentMoniker": "Datastructures-ConsoleApp\\RecursionExercises.cs",
+              "ToolTip": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 8 - Binary search tree\\Labo\\Datastructures-ConsoleApp\\RecursionExercises.cs",
+              "RelativeToolTip": "Datastructures-ConsoleApp\\RecursionExercises.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T19:32:46.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SortingExercises.cs",
+              "DocumentMoniker": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 8 - Binary search tree\\Labo\\Datastructures-ConsoleApp\\SortingExercises.cs",
+              "RelativeDocumentMoniker": "Datastructures-ConsoleApp\\SortingExercises.cs",
+              "ToolTip": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 8 - Binary search tree\\Labo\\Datastructures-ConsoleApp\\SortingExercises.cs",
+              "RelativeToolTip": "Datastructures-ConsoleApp\\SortingExercises.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwBoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T11:06:58.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TextHelpers.cs",
+              "DocumentMoniker": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 8 - Binary search tree\\Labo\\Datastructures-ClassLibrary\\Recursion\\TextHelpers.cs",
+              "RelativeDocumentMoniker": "Datastructures-ClassLibrary\\Recursion\\TextHelpers.cs",
+              "ToolTip": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 8 - Binary search tree\\Labo\\Datastructures-ClassLibrary\\Recursion\\TextHelpers.cs",
+              "RelativeToolTip": "Datastructures-ClassLibrary\\Recursion\\TextHelpers.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T10:15:14.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Solution-Quicksort.cs",
+              "DocumentMoniker": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 8 - Binary search tree\\Labo\\Datastructures-ClassLibrary\\Sorting\\Solution-Quicksort.cs",
+              "RelativeDocumentMoniker": "Datastructures-ClassLibrary\\Sorting\\Solution-Quicksort.cs",
+              "ToolTip": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 8 - Binary search tree\\Labo\\Datastructures-ClassLibrary\\Sorting\\Solution-Quicksort.cs",
+              "RelativeToolTip": "Datastructures-ClassLibrary\\Sorting\\Solution-Quicksort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T11:06:13.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MathHelpers.cs",
+              "DocumentMoniker": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 8 - Binary search tree\\Labo\\Datastructures-ClassLibrary\\Recursion\\MathHelpers.cs",
+              "RelativeDocumentMoniker": "Datastructures-ClassLibrary\\Recursion\\MathHelpers.cs",
+              "ToolTip": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 8 - Binary search tree\\Labo\\Datastructures-ClassLibrary\\Recursion\\MathHelpers.cs",
+              "RelativeToolTip": "Datastructures-ClassLibrary\\Recursion\\MathHelpers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T10:43:59.926Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

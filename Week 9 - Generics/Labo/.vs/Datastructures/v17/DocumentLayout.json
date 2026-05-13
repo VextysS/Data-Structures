@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 9 - Generics\\Labo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71B23286-7B07-4F90-A0D2-D73CF9D1C969}|Datastructures-Unittesting\\Datastructures-Unittesting.csproj|c:\\users\\ahadi\\desktop\\2025-2026\\s2\\data structures\\week 9 - generics\\labo\\datastructures-unittesting\\generics\\stacktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71B23286-7B07-4F90-A0D2-D73CF9D1C969}|Datastructures-Unittesting\\Datastructures-Unittesting.csproj|solutionrelative:datastructures-unittesting\\generics\\stacktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B23286-7B07-4F90-A0D2-D73CF9D1C969}|Datastructures-Unittesting\\Datastructures-Unittesting.csproj|c:\\users\\ahadi\\desktop\\2025-2026\\s2\\data structures\\week 9 - generics\\labo\\datastructures-unittesting\\generics\\queuetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71B23286-7B07-4F90-A0D2-D73CF9D1C969}|Datastructures-Unittesting\\Datastructures-Unittesting.csproj|solutionrelative:datastructures-unittesting\\generics\\queuetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0C57FF-07A1-4BB7-9385-937D03AE0CAF}|Datastructures-ClassLibrary\\Datastructures-ClassLibrary.csproj|c:\\users\\ahadi\\desktop\\2025-2026\\s2\\data structures\\week 9 - generics\\labo\\datastructures-classlibrary\\generics\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0C57FF-07A1-4BB7-9385-937D03AE0CAF}|Datastructures-ClassLibrary\\Datastructures-ClassLibrary.csproj|solutionrelative:datastructures-classlibrary\\generics\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFFFC06-E087-46D5-80D0-E37EAABA27CB}|Datastructures-ConsoleApp\\Datastructures-ConsoleApp.csproj|c:\\users\\ahadi\\desktop\\2025-2026\\s2\\data structures\\week 9 - generics\\labo\\datastructures-consoleapp\\generics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFFFC06-E087-46D5-80D0-E37EAABA27CB}|Datastructures-ConsoleApp\\Datastructures-ConsoleApp.csproj|solutionrelative:datastructures-consoleapp\\generics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0C57FF-07A1-4BB7-9385-937D03AE0CAF}|Datastructures-ClassLibrary\\Datastructures-ClassLibrary.csproj|c:\\users\\ahadi\\desktop\\2025-2026\\s2\\data structures\\week 9 - generics\\labo\\datastructures-classlibrary\\generics\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0C57FF-07A1-4BB7-9385-937D03AE0CAF}|Datastructures-ClassLibrary\\Datastructures-ClassLibrary.csproj|solutionrelative:datastructures-classlibrary\\generics\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0C57FF-07A1-4BB7-9385-937D03AE0CAF}|Datastructures-ClassLibrary\\Datastructures-ClassLibrary.csproj|c:\\users\\ahadi\\desktop\\2025-2026\\s2\\data structures\\week 9 - generics\\labo\\datastructures-classlibrary\\helpers\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0C57FF-07A1-4BB7-9385-937D03AE0CAF}|Datastructures-ClassLibrary\\Datastructures-ClassLibrary.csproj|solutionrelative:datastructures-classlibrary\\helpers\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StackTests.cs",
+              "DocumentMoniker": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 9 - Generics\\Labo\\Datastructures-Unittesting\\Generics\\StackTests.cs",
+              "RelativeDocumentMoniker": "Datastructures-Unittesting\\Generics\\StackTests.cs",
+              "ToolTip": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 9 - Generics\\Labo\\Datastructures-Unittesting\\Generics\\StackTests.cs",
+              "RelativeToolTip": "Datastructures-Unittesting\\Generics\\StackTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:53:38.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Queue.cs",
+              "DocumentMoniker": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 9 - Generics\\Labo\\Datastructures-ClassLibrary\\Generics\\Queue.cs",
+              "RelativeDocumentMoniker": "Datastructures-ClassLibrary\\Generics\\Queue.cs",
+              "ToolTip": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 9 - Generics\\Labo\\Datastructures-ClassLibrary\\Generics\\Queue.cs",
+              "RelativeToolTip": "Datastructures-ClassLibrary\\Generics\\Queue.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwCAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:44:31.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stack.cs",
+              "DocumentMoniker": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 9 - Generics\\Labo\\Datastructures-ClassLibrary\\Generics\\Stack.cs",
+              "RelativeDocumentMoniker": "Datastructures-ClassLibrary\\Generics\\Stack.cs",
+              "ToolTip": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 9 - Generics\\Labo\\Datastructures-ClassLibrary\\Generics\\Stack.cs",
+              "RelativeToolTip": "Datastructures-ClassLibrary\\Generics\\Stack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:36:13.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 9 - Generics\\Labo\\Datastructures-ClassLibrary\\Helpers\\Car.cs",
+              "RelativeDocumentMoniker": "Datastructures-ClassLibrary\\Helpers\\Car.cs",
+              "ToolTip": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 9 - Generics\\Labo\\Datastructures-ClassLibrary\\Helpers\\Car.cs",
+              "RelativeToolTip": "Datastructures-ClassLibrary\\Helpers\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:32:31.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QueueTests.cs",
+              "DocumentMoniker": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 9 - Generics\\Labo\\Datastructures-Unittesting\\Generics\\QueueTests.cs",
+              "RelativeDocumentMoniker": "Datastructures-Unittesting\\Generics\\QueueTests.cs",
+              "ToolTip": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 9 - Generics\\Labo\\Datastructures-Unittesting\\Generics\\QueueTests.cs",
+              "RelativeToolTip": "Datastructures-Unittesting\\Generics\\QueueTests.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwDoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:10:53.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Generics.cs",
+              "DocumentMoniker": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 9 - Generics\\Labo\\Datastructures-ConsoleApp\\Generics.cs",
+              "RelativeDocumentMoniker": "Datastructures-ConsoleApp\\Generics.cs",
+              "ToolTip": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Week 9 - Generics\\Labo\\Datastructures-ConsoleApp\\Generics.cs",
+              "RelativeToolTip": "Datastructures-ConsoleApp\\Generics.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAmwEUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T09:44:48.348Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
