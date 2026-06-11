@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Voorbereiding\\Datastructures\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19A4B37D-BCBF-4EBA-9CE6-AD9D01C8FD67}|Datastructures\\Datastructures.csproj|c:\\users\\ahadi\\desktop\\2025-2026\\s2\\data structures\\voorbereiding\\datastructures\\datastructures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A4B37D-BCBF-4EBA-9CE6-AD9D01C8FD67}|Datastructures\\Datastructures.csproj|solutionrelative:datastructures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A4B37D-BCBF-4EBA-9CE6-AD9D01C8FD67}|Datastructures\\Datastructures.csproj|c:\\users\\ahadi\\desktop\\2025-2026\\s2\\data structures\\voorbereiding\\datastructures\\datastructures\\recursie\\recursionexercises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A4B37D-BCBF-4EBA-9CE6-AD9D01C8FD67}|Datastructures\\Datastructures.csproj|solutionrelative:datastructures\\recursie\\recursionexercises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844C4159-20C9-4BC5-A270-57D336545B01}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\ahadi\\desktop\\2025-2026\\s2\\data structures\\voorbereiding\\datastructures\\classlibrary\\sorting\\insertionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844C4159-20C9-4BC5-A270-57D336545B01}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\sorting\\insertionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844C4159-20C9-4BC5-A270-57D336545B01}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\ahadi\\desktop\\2025-2026\\s2\\data structures\\voorbereiding\\datastructures\\classlibrary\\sorting\\selectionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844C4159-20C9-4BC5-A270-57D336545B01}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\sorting\\selectionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844C4159-20C9-4BC5-A270-57D336545B01}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\ahadi\\desktop\\2025-2026\\s2\\data structures\\voorbereiding\\datastructures\\classlibrary\\sorting\\bubblesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844C4159-20C9-4BC5-A270-57D336545B01}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\sorting\\bubblesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A4B37D-BCBF-4EBA-9CE6-AD9D01C8FD67}|Datastructures\\Datastructures.csproj|c:\\users\\ahadi\\desktop\\2025-2026\\s2\\data structures\\voorbereiding\\datastructures\\datastructures\\sortdeel1\\sortdeel1menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A4B37D-BCBF-4EBA-9CE6-AD9D01C8FD67}|Datastructures\\Datastructures.csproj|solutionrelative:datastructures\\sortdeel1\\sortdeel1menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2EE627-8A5B-4C78-9C9F-C4E76C656A35}|UnitTests\\UnitTests.csproj|c:\\users\\ahadi\\desktop\\2025-2026\\s2\\data structures\\voorbereiding\\datastructures\\unittests\\sorting\\selectionsorttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2EE627-8A5B-4C78-9C9F-C4E76C656A35}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\sorting\\selectionsorttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A4B37D-BCBF-4EBA-9CE6-AD9D01C8FD67}|Datastructures\\Datastructures.csproj|c:\\users\\ahadi\\desktop\\2025-2026\\s2\\data structures\\voorbereiding\\datastructures\\datastructures\\datastructures.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{19A4B37D-BCBF-4EBA-9CE6-AD9D01C8FD67}|Datastructures\\Datastructures.csproj|solutionrelative:datastructures\\datastructures.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2EE627-8A5B-4C78-9C9F-C4E76C656A35}|UnitTests\\UnitTests.csproj|c:\\users\\ahadi\\desktop\\2025-2026\\s2\\data structures\\voorbereiding\\datastructures\\unittests\\sorting\\bubblesorttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2EE627-8A5B-4C78-9C9F-C4E76C656A35}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\sorting\\bubblesorttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2EE627-8A5B-4C78-9C9F-C4E76C656A35}|UnitTests\\UnitTests.csproj|c:\\users\\ahadi\\desktop\\2025-2026\\s2\\data structures\\voorbereiding\\datastructures\\unittests\\unittesting\\finecalculation_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2EE627-8A5B-4C78-9C9F-C4E76C656A35}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\unittesting\\finecalculation_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecursionExercises.cs",
+              "DocumentMoniker": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Voorbereiding\\Datastructures\\Datastructures\\Recursie\\RecursionExercises.cs",
+              "RelativeDocumentMoniker": "Datastructures\\Recursie\\RecursionExercises.cs",
+              "ToolTip": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Voorbereiding\\Datastructures\\Datastructures\\Recursie\\RecursionExercises.cs",
+              "RelativeToolTip": "Datastructures\\Recursie\\RecursionExercises.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T16:46:25.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Insertionsort.cs",
+              "DocumentMoniker": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Voorbereiding\\Datastructures\\ClassLibrary\\Sorting\\Insertionsort.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Sorting\\Insertionsort.cs",
+              "ToolTip": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Voorbereiding\\Datastructures\\ClassLibrary\\Sorting\\Insertionsort.cs",
+              "RelativeToolTip": "ClassLibrary\\Sorting\\Insertionsort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T16:26:05.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bubblesort.cs",
+              "DocumentMoniker": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Voorbereiding\\Datastructures\\ClassLibrary\\Sorting\\Bubblesort.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Sorting\\Bubblesort.cs",
+              "ToolTip": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Voorbereiding\\Datastructures\\ClassLibrary\\Sorting\\Bubblesort.cs",
+              "RelativeToolTip": "ClassLibrary\\Sorting\\Bubblesort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T16:04:18.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Selectionsort.cs",
+              "DocumentMoniker": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Voorbereiding\\Datastructures\\ClassLibrary\\Sorting\\Selectionsort.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Sorting\\Selectionsort.cs",
+              "ToolTip": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Voorbereiding\\Datastructures\\ClassLibrary\\Sorting\\Selectionsort.cs",
+              "RelativeToolTip": "ClassLibrary\\Sorting\\Selectionsort.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAewD4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T15:29:27.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FineCalculation_tests.cs",
+              "DocumentMoniker": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Voorbereiding\\Datastructures\\UnitTests\\UnitTesting\\FineCalculation_tests.cs",
+              "RelativeDocumentMoniker": "UnitTests\\UnitTesting\\FineCalculation_tests.cs",
+              "ToolTip": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Voorbereiding\\Datastructures\\UnitTests\\UnitTesting\\FineCalculation_tests.cs",
+              "RelativeToolTip": "UnitTests\\UnitTesting\\FineCalculation_tests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T15:33:41.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Voorbereiding\\Datastructures\\Datastructures\\Program.cs",
+              "RelativeDocumentMoniker": "Datastructures\\Program.cs",
+              "ToolTip": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Voorbereiding\\Datastructures\\Datastructures\\Program.cs",
+              "RelativeToolTip": "Datastructures\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T14:52:18.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Datastructures",
+              "DocumentMoniker": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Voorbereiding\\Datastructures\\Datastructures\\Datastructures.csproj",
+              "RelativeDocumentMoniker": "Datastructures\\Datastructures.csproj",
+              "ToolTip": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Voorbereiding\\Datastructures\\Datastructures\\Datastructures.csproj",
+              "RelativeToolTip": "Datastructures\\Datastructures.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-11T15:45:21.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SelectionsortTests.cs",
+              "DocumentMoniker": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Voorbereiding\\Datastructures\\UnitTests\\Sorting\\SelectionsortTests.cs",
+              "RelativeDocumentMoniker": "UnitTests\\Sorting\\SelectionsortTests.cs",
+              "ToolTip": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Voorbereiding\\Datastructures\\UnitTests\\Sorting\\SelectionsortTests.cs",
+              "RelativeToolTip": "UnitTests\\Sorting\\SelectionsortTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T15:05:13.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SortDeel1Menu.cs",
+              "DocumentMoniker": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Voorbereiding\\Datastructures\\Datastructures\\SortDeel1\\SortDeel1Menu.cs",
+              "RelativeDocumentMoniker": "Datastructures\\SortDeel1\\SortDeel1Menu.cs",
+              "ToolTip": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Voorbereiding\\Datastructures\\Datastructures\\SortDeel1\\SortDeel1Menu.cs",
+              "RelativeToolTip": "Datastructures\\SortDeel1\\SortDeel1Menu.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwCkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T14:58:38.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BubblesortTests.cs",
+              "DocumentMoniker": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Voorbereiding\\Datastructures\\UnitTests\\Sorting\\BubblesortTests.cs",
+              "RelativeDocumentMoniker": "UnitTests\\Sorting\\BubblesortTests.cs",
+              "ToolTip": "C:\\Users\\ahadi\\Desktop\\2025-2026\\S2\\Data structures\\Voorbereiding\\Datastructures\\UnitTests\\Sorting\\BubblesortTests.cs",
+              "RelativeToolTip": "UnitTests\\Sorting\\BubblesortTests.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T15:01:54.492Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
